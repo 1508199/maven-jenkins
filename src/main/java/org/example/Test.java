@@ -1,4 +1,4 @@
-package org.example;
+ package org.example;
 
 /**
  * @author Vorname Nachname (vorname.nachname@dataphone.at)
@@ -7,4 +7,5 @@ package org.example;
 public class Test {
     private String name;
     private String name1;
+    private String name3;
 }
